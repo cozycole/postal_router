@@ -7,6 +7,7 @@
 * ### Postgis
 * ### Pgrouting 
 * ### osm2pgrouting
+* ### osmconvert
 
 ## Problem Description
 
