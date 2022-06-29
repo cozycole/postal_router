@@ -1,0 +1,264 @@
+Start on East 21st Avenue
+Turn on to Agate Alley
+Turn on to East 21st Alley
+DEADHEAD: U-turn out of East 21st Alley
+Turn on to East 21 Alley
+Turn on to Emerald Street
+Turn on to East 22nd Avenue
+Turn on to None
+Turn on to East 21st Avenue
+Turn on to Emerald Street
+Continue on Emerald Street
+Continue on Emerald Street
+DEADHEAD: U-turn out of Emerald Street
+Turn on to None
+Continue on None
+DEADHEAD: U-turn out of None
+Turn on to Agate Alley
+DEADHEAD: U-turn out of Agate Alley
+Continue on Agate Alley
+Turn on to East 20th Avenue
+DEADHEAD: U-turn out of East 20th Avenue
+Continue on East 20th Avenue
+Continue on East 20th Avenue
+Continue on East 20th Avenue
+Turn on to Onyx Street
+DEADHEAD: U-turn out of Onyx Street
+Continue on Onyx Street
+Turn on to East 21st Avenue
+Turn on to Onyx Alley
+Turn on to East 22nd Avenue
+Turn on to Onyx Street
+Continue on Onyx Street
+DEADHEAD: U-turn out of Onyx Street
+Turn on to East 23rd Avenue
+Turn on to Emerald Street
+DEADHEAD: U-turn out of Emerald Street
+Turn on to East 23rd Avenue
+Continue on East 23rd Avenue
+DEADHEAD: U-turn out of East 23rd Avenue
+Turn on to Agate Alley
+Turn on to East 22nd Alley
+DEADHEAD: U-turn out of East 22nd Alley
+Turn on to Agate Alley
+DEADHEAD: U-turn out of Agate Alley
+Turn on to East 22nd Alley
+Turn on to Emerald Street
+Turn on to East 23rd Avenue
+Continue on East 23rd Avenue
+Continue on East 23rd Avenue
+Continue on East 23rd Avenue
+Turn on to University Alley
+DEADHEAD: U-turn out of University Alley
+Turn on to East 23rd Avenue
+Continue on East 23rd Avenue
+Turn on to Potter Alley
+Turn on to East 22nd Avenue
+Turn on to Potter Street
+Turn on to East 23rd Avenue
+Continue on East 23rd Avenue
+Turn on to Harris Street
+DEADHEAD: U-turn out of Harris Street
+Turn on to East 23rd Avenue
+Continue on East 23rd Avenue
+Continue on East 23rd Avenue
+Turn on to Alder Street
+Continue on Alder Street
+Turn on to East 22nd Avenue
+Continue on East 22nd Avenue
+DEADHEAD: U-turn out of East 22nd Avenue
+Turn on to Alder Alley
+Turn on to None
+DEADHEAD: U-turn out of None
+Turn on to Alder Alley
+Turn on to East 23rd Avenue
+DEADHEAD: U-turn out of East 23rd Avenue
+Continue on East 23rd Avenue
+Turn on to Alder Street
+DEADHEAD: U-turn out of Alder Street
+Continue on Alder Street
+Turn on to None
+Turn on to Kincaid Street
+DEADHEAD: U-turn out of Kincaid Street
+Continue on Kincaid Street
+Turn on to East 22nd Avenue
+Continue on East 22nd Avenue
+Turn on to Harris Street
+Continue on Harris Street
+Turn on to East 20th Avenue
+Turn on to Harris Alley
+Continue on Harris Alley
+Continue on Harris Alley
+Turn on to East 23rd Avenue
+Turn on to Harris Street
+Turn on to East 22nd Avenue
+Turn on to Potter Alley
+Continue on Potter Alley
+Continue on Potter Alley
+DEADHEAD: U-turn out of Potter Alley
+Turn on to East 20th Avenue
+Continue on East 20th Avenue
+Turn on to University Alley
+DEADHEAD: U-turn out of University Alley
+Continue on University Alley
+Continue on University Alley
+DEADHEAD: U-turn out of University Alley
+Continue on University Alley
+Turn on to East 20th Avenue
+Turn on to University Street
+DEADHEAD: U-turn out of University Street
+Turn on to East 20th Avenue
+Turn on to Onyx Alley
+DEADHEAD: U-turn out of Onyx Alley
+Turn on to East 20th Avenue
+Turn on to University Street
+Continue on University Street
+Continue on University Street
+Continue on University Street
+DEADHEAD: U-turn out of University Street
+Turn on to East 23rd Avenue
+Turn on to Onyx Alley
+DEADHEAD: U-turn out of Onyx Alley
+Continue on Onyx Alley
+Turn on to East 22nd Avenue
+Continue on East 22nd Avenue
+Continue on East 22nd Avenue
+Turn on to Potter Street
+Continue on Potter Street
+Continue on Potter Street
+DEADHEAD: U-turn out of Potter Street
+Turn on to East 20th Avenue
+Continue on East 20th Avenue
+Turn on to Harris Street
+Turn on to East 19th Avenue
+Continue on East 19th Avenue
+Continue on East 19th Avenue
+Continue on East 19th Avenue
+Turn on to Alder Street
+Continue on Alder Street
+Continue on Alder Street
+Turn on to None
+Turn on to Kincaid Street
+DEADHEAD: U-turn out of Kincaid Street
+Continue on Kincaid Street
+Turn on to East 21st Avenue
+Turn on to Alder Street
+Continue on Alder Street
+Turn on to East 20th Avenue
+Continue on East 20th Avenue
+DEADHEAD: U-turn out of East 20th Avenue
+Turn on to Alder Alley
+Turn on to None
+DEADHEAD: U-turn out of None
+Turn on to Alder Alley
+Turn on to East 19th Avenue
+Turn on to Hilyard Street
+Continue on Hilyard Street
+Turn on to East 13th Avenue
+Continue on East 13th Avenue
+Turn on to Kincaid Street
+Continue on Kincaid Street
+Continue on Kincaid Street
+Continue on Kincaid Street
+Turn on to East 11th Avenue
+Continue on East 11th Avenue
+Continue on East 11th Avenue
+Continue on East 11th Avenue
+Continue on East 11th Avenue
+Continue on East 11th Avenue
+Continue on East 11th Avenue
+Continue on East 11th Avenue
+Continue on East 11th Avenue
+Continue on East 11th Avenue
+Continue on East 11th Avenue
+Turn on to Willamette Street
+DEADHEAD: U-turn out of Willamette Street
+Continue on Willamette Street
+Turn on to East 13th Avenue
+Continue on East 13th Avenue
+Continue on East 13th Avenue
+Continue on East 13th Avenue
+Continue on East 13th Avenue
+Continue on East 13th Avenue
+Continue on East 13th Avenue
+Continue on East 13th Avenue
+Continue on East 13th Avenue
+Continue on East 13th Avenue
+Continue on East 13th Avenue
+Turn on to Kincaid Street
+Continue on Kincaid Street
+Continue on Kincaid Street
+Continue on Kincaid Street
+Turn on to East 11th Avenue
+Continue on East 11th Avenue
+Turn on to Patterson Street
+Continue on Patterson Street
+Continue on Patterson Street
+Continue on Patterson Street
+Continue on Patterson Street
+Continue on Patterson Street
+Turn on to East 19th Avenue
+Continue on East 19th Avenue
+Turn on to Alder Alley
+DEADHEAD: U-turn out of Alder Alley
+Turn on to East 19th Avenue
+Turn on to Alder Street
+Turn on to East 18th Alley
+Turn on to Kincaid Street
+DEADHEAD: U-turn out of Kincaid Street
+Continue on Kincaid Street
+Continue on Kincaid Street
+DEADHEAD: U-turn out of Kincaid Street
+Turn on to East 19th Avenue
+Turn on to Harris Alley
+DEADHEAD: U-turn out of Harris Alley
+Continue on Harris Alley
+Turn on to East 20th Avenue
+Continue on East 20th Avenue
+Continue on East 20th Avenue
+Turn on to Alder Alley
+Turn on to None
+DEADHEAD: U-turn out of None
+Turn on to Alder Alley
+Turn on to East 21st Avenue
+DEADHEAD: U-turn out of East 21st Avenue
+Turn on to Alder Alley
+DEADHEAD: U-turn out of Alder Alley
+Turn on to East 21st Avenue
+Turn on to Alder Street
+Turn on to None
+Turn on to Kincaid Street
+Turn on to East 22nd Avenue
+Turn on to Alder Street
+Turn on to None
+Turn on to Kincaid Street
+Turn on to East 21st Avenue
+Continue on East 21st Avenue
+Continue on East 21st Avenue
+Continue on East 21st Avenue
+Continue on East 21st Avenue
+Continue on East 21st Avenue
+Continue on East 21st Avenue
+Turn on to Onyx Alley
+Turn on to East 20th Avenue
+Continue on East 20th Avenue
+Turn on to None
+DEADHEAD: U-turn out of None
+Continue on None
+Turn on to East 21st Avenue
+Turn on to Onyx Street
+Turn on to East 22nd Avenue
+Continue on East 22nd Avenue
+Turn on to Emerald Street
+DEADHEAD: U-turn out of Emerald Street
+Turn on to East 22nd Avenue
+Continue on East 22nd Avenue
+DEADHEAD: U-turn out of East 22nd Avenue
+Turn on to Agate Alley
+Turn on to East 21 Alley
+Turn on to Emerald Street
+Turn on to East 21st Avenue
+Turn on to Agate Alley
+DEADHEAD: U-turn out of Agate Alley
+Turn on to East 21st Avenue
+DEADHEAD SUM: 8305
